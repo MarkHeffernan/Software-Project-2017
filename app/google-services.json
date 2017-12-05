@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "872763641656",
+    "firebase_url": "https://safe-eat-90754.firebaseio.com",
+    "project_id": "safe-eat-90754",
+    "storage_bucket": "safe-eat-90754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872763641656:android:ff680a7a9aab1de4",
+        "android_client_info": {
+          "package_name": "markheffernan.safeeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872763641656-f62nom56u4ip2ikqv4ng41cvd4a4ua6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCCOO2cpAG0zET3tBczF8Q2txx17IyTyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
